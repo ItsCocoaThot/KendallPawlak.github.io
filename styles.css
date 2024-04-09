@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(85, 154, 161)
+}
+
+h1 {
+    color: rgb(133, 85, 169);
+    font-family: courier;
+    font-size: 300%;
+}
+
+h2 {
+    color:bisque;
+    font-family: courier;
+    font-size: 200%;
+}
+
+h3 {
+    color:#76d4b6;
+    font-family: courier;
+    font-size: 150%;
+}
+
+h4 {
+    color:rgb(231, 158, 158);
+    font-family: courier;
+    font-size: 125%;
+}
+
+h5 {
+    color:bisque;
+    font-family: courier;
+    font-size: 110%;
+}
+
+p1 {
+    color:rgb(241, 135, 191);
+    font-family: courier;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 3px solid rgb(133, 85, 169);
+    border-collapse: collapse;
+    color: rgb(231, 158, 158);
+    font-family: courier;
+    font-size: 100%;
+  }
+
+.column {
+    display: inline-block;
+}
